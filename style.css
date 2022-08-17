@@ -18,34 +18,37 @@ main{
     margin: 30px auto;
     min-height: 700px;
 }
+header{
+    width: 1500px;
+    margin: 30px auto;
+    min-height: 300px;
+
+}
 h1, h2{
     font-family: facile;
+    margin: 0px;
     font-size: 100px;
     color: #3C403D;
-    padding-left: auto;
-    padding-right: auto;
     text-align: right;
-    float: center;
     position: static;
 }
+
 div{
-    margin: auto;
-    text-align: center;
+    margin-left: 325px;
     position: relative;
 }
 h3{
     color: #DADED4;
-    margin-left: 300px;
-    font-size: 75px;
+    font-size: 50px;
     font-family: arial;
     text-align: left;
 }
 p{
     color:#FFFFFF;
-    margin-left: 30px;
     margin-right: 400px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     position: relative;
+    width: 800px;
 
 }
