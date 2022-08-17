@@ -120,5 +120,3 @@ function getName(){
   alert('Welcome ' + name + '!');
 
 }
-
-
